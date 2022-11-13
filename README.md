@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jumboindex / James
-- 👀 I’m interested in Javascript, React, Redux, Express 
-- 🌱 I’m currently learning SQL / PostgreSQL
-- 💞️ I’m looking to collaborate on any full stack project
 - 📫 How to reach me: me@jamesball.tech
 
 
